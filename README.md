@@ -36,10 +36,10 @@ Cross2DL
 
 ### Data and Trained Model
 
-To run our trained models with processed dataset, you need to download the Processed dataset and our Trained Models:
+To run our trained models with processed dataset, you need to download our Trained Models at [models](https://drive.google.com/drive/folders/1FBTN6xPVFJ7R05th9IMvFpKTNNtgxFI-?usp=sharing):
 
 - Processed dataset is Available in the a `data` directory.
-- Trained Models is Available in the a `save_models` directory, edit the `model_name`, `test_batch_size` and `dataset_name` and run the `train.py` , and the program will automatically load the trained model.
+- Put the downloaded trained Models in the `save_models` directory. Edit the `model_name`, `test_batch_size` and `dataset_name` and run the `train.py` , and then the program will automatically load the trained model.
 
 If you run our models for `java` dataset, please set as follow in  `train.py`:
 
